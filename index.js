@@ -17,7 +17,7 @@ function increment(n){
   return (n + 1);
 }
 function decrement(n){
-  var number = number
+  var number = n
   return (n - 1);
   
 }
