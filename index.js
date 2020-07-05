@@ -16,3 +16,8 @@ function increment(n){
   var number = n 
   return (n + 1);
 }
+function decrement(n){
+  var number = number
+  return (n - 1);
+  
+}
