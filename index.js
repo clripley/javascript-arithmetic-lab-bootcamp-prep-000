@@ -21,6 +21,5 @@ function decrement(n){
   return (n - 1);
 }
 function makeInt(n){
-  partseInt('n', 1);
-  
+  parseInt('n');
 }
