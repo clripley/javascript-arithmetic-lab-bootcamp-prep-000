@@ -20,4 +20,5 @@ function decrement(n){
   var number = n
   return (n - 1);
 }
-
+function makeInt(n){
+}
