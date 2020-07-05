@@ -13,6 +13,5 @@ function divide(a, b){
   return (a / b);
 }
 function increment(n){
-  var number = n 
-  return number
+  
 }
